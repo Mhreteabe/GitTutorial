@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         println("this is my first message");
+        println("this message is added in mybranch branch");
     }
 }
